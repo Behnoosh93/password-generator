@@ -19,4 +19,9 @@ The following image shows the web application's appearance and functionality:
 
 * Application deployed at live URL.
 
-[Click here to go to deployed application.](https://behnoosh93.github.io/Professional-Portfolio/ )
+[Click here to go to deployed application.](https://behnoosh93.github.io/password-generator/. )
+
+
+* Application GitHub URL submitted.
+
+[Click here to go to deployed application.](https://github.com/Behnoosh93/password-generator)
